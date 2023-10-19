@@ -3,7 +3,7 @@
 ALPHA Shop III： 元件實作
 
 ## 圖示
-
+![image](https://github.com/owendong527/AlphaShop_3/blob/main/alphashop3.png)
 
 ## 執行方式
 
